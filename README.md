@@ -12,7 +12,7 @@ you can see it in the picture
 # installtaion
 
 
-	git clone https://github.com/iamj0ker/bypass-403
-	cd bypass-403
-	chmod +x bypass-403.sh
+	git clone https://github.com/OAhmed10/bypass-forbidden
+	cd bypass-forbidden
+	chmod +x bypass-forbidden.sh
 	sudo apt install figlet - If you are unable to see the logo as in the screenshot
