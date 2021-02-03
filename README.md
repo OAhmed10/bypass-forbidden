@@ -1,6 +1,7 @@
 # bypass-forbidden
 
 
+
 # Usage 
 ./bypass-403.sh https://example.com admin
 
