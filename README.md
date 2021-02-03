@@ -7,6 +7,8 @@
 
 ./bypass-403.sh url directory-path
 
+you can see it in the picture 
+
 # installtaion
 
 
