@@ -3,9 +3,9 @@
 
 
 # Usage 
-./bypass-403.sh https://example.com admin
+./bypass-forbidden.sh https://example.com admin
 
-./bypass-403.sh url directory-path
+./bypass-forbidden.sh url directory-path
 
 you can see it in the picture 
 
